@@ -1,0 +1,10 @@
+D:\Sharp_Developers\learning\PingPong\PingPong\bin\Release\PingPong.exe.config
+D:\Sharp_Developers\learning\PingPong\PingPong\bin\Release\PingPong.exe
+D:\Sharp_Developers\learning\PingPong\PingPong\bin\Release\PingPong.pdb
+D:\Sharp_Developers\learning\PingPong\PingPong\obj\Release\PingPong.csproj.AssemblyReference.cache
+D:\Sharp_Developers\learning\PingPong\PingPong\obj\Release\PingPong.Form1.resources
+D:\Sharp_Developers\learning\PingPong\PingPong\obj\Release\PingPong.Properties.Resources.resources
+D:\Sharp_Developers\learning\PingPong\PingPong\obj\Release\PingPong.csproj.GenerateResource.cache
+D:\Sharp_Developers\learning\PingPong\PingPong\obj\Release\PingPong.csproj.CoreCompileInputs.cache
+D:\Sharp_Developers\learning\PingPong\PingPong\obj\Release\PingPong.exe
+D:\Sharp_Developers\learning\PingPong\PingPong\obj\Release\PingPong.pdb
